@@ -1,0 +1,15 @@
+C:\Users\компьютер\Desktop\ItogC#\bin\Debug\net6.0\ItogC#.exe
+C:\Users\компьютер\Desktop\ItogC#\bin\Debug\net6.0\ItogC#.deps.json
+C:\Users\компьютер\Desktop\ItogC#\bin\Debug\net6.0\ItogC#.runtimeconfig.json
+C:\Users\компьютер\Desktop\ItogC#\bin\Debug\net6.0\ItogC#.dll
+C:\Users\компьютер\Desktop\ItogC#\bin\Debug\net6.0\ItogC#.pdb
+C:\Users\компьютер\Desktop\ItogC#\obj\Debug\net6.0\ItogC#.csproj.AssemblyReference.cache
+C:\Users\компьютер\Desktop\ItogC#\obj\Debug\net6.0\ItogC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\компьютер\Desktop\ItogC#\obj\Debug\net6.0\ItogC#.AssemblyInfoInputs.cache
+C:\Users\компьютер\Desktop\ItogC#\obj\Debug\net6.0\ItogC#.AssemblyInfo.cs
+C:\Users\компьютер\Desktop\ItogC#\obj\Debug\net6.0\ItogC#.csproj.CoreCompileInputs.cache
+C:\Users\компьютер\Desktop\ItogC#\obj\Debug\net6.0\ItogC#.dll
+C:\Users\компьютер\Desktop\ItogC#\obj\Debug\net6.0\refint\ItogC#.dll
+C:\Users\компьютер\Desktop\ItogC#\obj\Debug\net6.0\ItogC#.pdb
+C:\Users\компьютер\Desktop\ItogC#\obj\Debug\net6.0\ItogC#.genruntimeconfig.cache
+C:\Users\компьютер\Desktop\ItogC#\obj\Debug\net6.0\ref\ItogC#.dll
